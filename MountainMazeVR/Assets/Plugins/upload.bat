@@ -1,0 +1,1 @@
+curl -v -b cookie -X PUT -F "space_template[zip]=@/Users/oldlovenewlove/Desktop/Unity Projects/AltSpace/A Whole New World/template.zip" -F "space_template[game_engine_version]=20194" https://account.altvr.com/api/space_templates/1726706872347526123.json
